@@ -1,0 +1,5 @@
+print('Andrei Boricean')
+print('o----')
+print(' ||||')
+print('*' * 10) 
+print('*' * 8)
